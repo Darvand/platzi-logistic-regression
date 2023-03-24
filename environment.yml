@@ -1,0 +1,19 @@
+name: platzi_logistic_regression
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - jupyterlab
+  - pip
+  - python=3.11
+  - pip:
+    - pyhere
+    - scikit-learn
+    - setuptools==57.5.0
+    - regressors
+    - numpy
+  - pandas
+  - matplotlib
+  - seaborn
