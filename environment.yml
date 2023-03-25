@@ -1,6 +1,5 @@
 name: platzi_logistic_regression
 channels:
-  - anaconda
   - conda-forge
   - defaults
 dependencies:
